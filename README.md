@@ -1,0 +1,1 @@
+This repository consists of exercises and work followed during the course ML and AI at UM-DAE CBS, Mumbai.

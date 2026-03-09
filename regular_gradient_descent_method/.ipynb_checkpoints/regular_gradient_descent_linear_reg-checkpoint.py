@@ -197,8 +197,8 @@ if (__name__=="__main__"):
     print("Eg.1")
     # generate random data
     np.random.seed(40)
-    intercept           =       2.0
-    slope               =       4.0
+    intercept           =       5.0
+    slope               =       2.5
     x_data, y_data      =       line_data_generator(intercept=intercept, slope=slope)
     
     # use the user defined fn. for doing gradient descent method
